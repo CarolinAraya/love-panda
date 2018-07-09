@@ -20,3 +20,12 @@ img {
 h4{
   text-align: center;
 }
+
+#about-pandas{
+  background-color: #abe188;
+  padding: 3% 3%;
+}
+
+#aboutPandas{
+  background-color: #FA8071;
+}
