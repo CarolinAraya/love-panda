@@ -1,4 +1,22 @@
+body {
+  background-color: #FA8071;
+  color: white;
+}
+
+header {
+  padding: 2% 1% 2% 1%;
+}
+
 img {
   width: 100%;
-  padding: 1% 0%;
+  padding: 0% 0%;
+}
+
+#paragraph {
+  text-align: justify;
+  padding: 0% 3%;
+}
+
+h4{
+  text-align: center;
 }
