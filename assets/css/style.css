@@ -21,7 +21,7 @@ h4{
   text-align: center;
 }
 
-#about-pandas{
+#about-pandas, #pandas-4{
   background-color: #abe188;
   padding: 3% 3%;
 }
@@ -29,4 +29,14 @@ h4{
 #aboutPandas{
   background-color: #FA8071;
   padding: 3% 3%;
+}
+
+.img-thumbnail {
+  height: 200px;
+  width: 200px;
+  border: 8px solid white;
+}
+
+#pictures-pandas {
+  padding: 3% 0%;
 }
