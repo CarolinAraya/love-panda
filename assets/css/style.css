@@ -9,12 +9,12 @@ header {
 
 img {
   width: 100%;
-  padding: 0% 0%;
+  padding: 1% 0%;
 }
 
 #paragraph {
   text-align: justify;
-  padding: 0% 3%;
+  padding: 0% 3% ;
 }
 
 h4{
@@ -28,4 +28,5 @@ h4{
 
 #aboutPandas{
   background-color: #FA8071;
+  padding: 3% 3%;
 }
